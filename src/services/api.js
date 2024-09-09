@@ -1,7 +1,8 @@
 import axios from 'axios';
 import qs from 'qs';
 
-const API_BASE_URL = '/api'; 
+//const API_BASE_URL = '/api'; 
+const API_BASE_URL = 'http://135.237.65.229:8080'
 
 export const fetchToken = async () => {
     try {
