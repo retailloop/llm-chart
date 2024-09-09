@@ -2,7 +2,9 @@ import axios from 'axios';
 import qs from 'qs';
 
 //const API_BASE_URL = '/api'; 
-const API_BASE_URL = 'http://135.237.65.229:8080'
+//const API_BASE_URL = 'http://135.237.65.229:8080'
+
+const API_BASE_URL = 'https://ujaimwndnztuigitjxr44mztca0dopro.lambda-url.eu-west-2.on.aws'
 
 export const fetchToken = async () => {
     try {
