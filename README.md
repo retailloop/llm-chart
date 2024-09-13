@@ -18,7 +18,6 @@ The LLM Metrics Dashboard is a React-based web application designed to visualize
 - Axios for API requests
 - Recharts for data visualization
 - Tailwind CSS for styling
-- AWS Lambda for API proxy
 - Shadcn UI components
 
 ## Prerequisites
@@ -27,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Node.js (v14.0.0 or later)
 - npm (v6.0.0 or later)
-- An AWS account (for Lambda function deployment)
+
 
 ## Installation
 
